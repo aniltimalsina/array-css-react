@@ -1,0 +1,26 @@
+body {
+  background-color: #0a7ea4;
+}
+
+ul {
+  position: relative;
+  left: 250px;
+  top: 90px;
+  z-index: -1;
+}
+li {
+  border: 2px black solid;
+  margin: 5px;
+  padding: 40px;
+  list-style: none;
+  width: 50%;
+  text-align: center;
+  background-color: #b2ffa8;
+  font-family: "Lobster", sans-serif;
+  font-size: 30px;
+}
+h1 {
+  text-align: center;
+  font-family: "Lobster", sans-serif;
+  font-size: 50px;
+}
